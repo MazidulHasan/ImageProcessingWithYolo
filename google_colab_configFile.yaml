@@ -1,0 +1,10 @@
+path: '/content/gdrive/My Drive/ColdStorage/' #dataset root dir
+train: data/train/images #train image path
+val: data/valid/images
+
+#classes
+names:
+  0: meter
+  1: oilTemp
+  2: current
+  3: machineStatus
