@@ -3,5 +3,5 @@ from ultralytics import YOLO
 
 image_path = 'IMG-20231205-WA0015.jpg'
 
-model = YOLO("best_roi.pt")
-model.predict(source=image_path, show=True, conf=0.5)
+model = YOLO("best_Potato.pt")
+model.predict(source=0, show=True, conf=0.5)

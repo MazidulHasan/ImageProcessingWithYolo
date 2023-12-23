@@ -1,0 +1,7 @@
+For electric meter ROI :: https://universe.roboflow.com/john-nyly4/yolov4-kxype/dataset/1
+For Numbsers :: https://universe.roboflow.com/sebastian-viollaz-agoaz/letters-numbers/dataset/4#
+For Numbers3:: https://universe.roboflow.com/tcnsdisncpcsa/daeiarcwe_abc_123_ver2/dataset/3
+For Potato:: https://universe.roboflow.com/vegetable-quality-detection/potato-detection-3et6q/dataset/11
+
+
+For Custom Dataset of Cold Storage Meter:: https://app.cvat.ai/tasks/427337/jobs/486212
