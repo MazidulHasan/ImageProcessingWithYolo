@@ -6,7 +6,7 @@ image_path = 'IMG-20231205-WA0016.jpg'
 original_image = cv2.imread(image_path)
 
 model_roi = YOLO("best_roi.pt")
-model_numbers = YOLO("best_Numbers2.pt")
+model_numbers = YOLO("best_Numbers3.pt")
 
 #indes
 # [Meter, oil_temp, current, machine_status]
